@@ -1,7 +1,7 @@
 # Pneumonia-Detection
 This project aims to use Machine Learning algorithm to classify users based on the presence of Pneumonia using their chest X-rays
 
-Pneumonia is a lung infection that ranges from mild to life-threatening consequences. In order to identify the infection, radiologists examine chest X-ray images to identify possible infection. By analyzing the "Chest X-Ray Images (Pneumonia)" dataset on Kaggle, we aim machine learning algorithms to help identify the presence of Pneumonia in patients and to facilitate diagnosis at a larger scale.
+Pneumonia is a lung infection that ranges from mild to life-threatening consequences. In order to identify the infection, radiologists examine chest X-ray images to identify possible infection. By analyzing the "Chest X-Ray Images (Pneumonia)" dataset on Kaggle, we aim to use machine learning algorithms to help identify the presence of Pneumonia in patients and to facilitate diagnosis at a larger scale.
 
 NOTE:
 
