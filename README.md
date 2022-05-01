@@ -57,3 +57,15 @@ from PIL import Image
 
 from sklearn.model_selection import GridSearchCV
 
+The following algorithms have been explored in this project:
+1. Decision Tree Classifier
+2. Random Forest Ensemble
+3. K-Nearest Neighbors classifier
+4. Convolutional Neural Networks
+5. Transfer Learning
+
+Additional Analysis done on the project includes:
+1. Exploratory data analysis and visualizations
+2. Principal Component Analysis
+3. Class Imbalance Correction using upsampling and downsampling
+4. Using Grid Search for finding suitable hyperparameters
